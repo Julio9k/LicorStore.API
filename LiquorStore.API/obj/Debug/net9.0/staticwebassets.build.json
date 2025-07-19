@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HZsUmvXyGh4bbqI0O8n1n0SpYNSjq3bRB7xd5ZY/sPs=",
+  "Source": "LiquorStore.API",
+  "BasePath": "_content/LiquorStore.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

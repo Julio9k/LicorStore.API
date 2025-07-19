@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\vss-curso\C#\Ejercicios\LiquorStore\LiquorStore.Common\bin\Debug\net9.0\LiquorStore.Common.deps.json
+C:\Users\HP\Downloads\vss-curso\C#\Ejercicios\LiquorStore\LiquorStore.Common\bin\Debug\net9.0\LiquorStore.Common.runtimeconfig.json
+C:\Users\HP\Downloads\vss-curso\C#\Ejercicios\LiquorStore\LiquorStore.Common\bin\Debug\net9.0\LiquorStore.Common.dll
+C:\Users\HP\Downloads\vss-curso\C#\Ejercicios\LiquorStore\LiquorStore.Common\bin\Debug\net9.0\LiquorStore.Common.pdb
+C:\Users\HP\Downloads\vss-curso\C#\Ejercicios\LiquorStore\LiquorStore.Common\obj\Debug\net9.0\LiquorStore.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\vss-curso\C#\Ejercicios\LiquorStore\LiquorStore.Common\obj\Debug\net9.0\LiquorStore.Common.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\vss-curso\C#\Ejercicios\LiquorStore\LiquorStore.Common\obj\Debug\net9.0\LiquorStore.Common.AssemblyInfo.cs
+C:\Users\HP\Downloads\vss-curso\C#\Ejercicios\LiquorStore\LiquorStore.Common\obj\Debug\net9.0\LiquorStore.Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\vss-curso\C#\Ejercicios\LiquorStore\LiquorStore.Common\obj\Debug\net9.0\LiquorStore.Common.sourcelink.json
+C:\Users\HP\Downloads\vss-curso\C#\Ejercicios\LiquorStore\LiquorStore.Common\obj\Debug\net9.0\LiquorStore.Common.dll
+C:\Users\HP\Downloads\vss-curso\C#\Ejercicios\LiquorStore\LiquorStore.Common\obj\Debug\net9.0\refint\LiquorStore.Common.dll
+C:\Users\HP\Downloads\vss-curso\C#\Ejercicios\LiquorStore\LiquorStore.Common\obj\Debug\net9.0\LiquorStore.Common.pdb
+C:\Users\HP\Downloads\vss-curso\C#\Ejercicios\LiquorStore\LiquorStore.Common\obj\Debug\net9.0\LiquorStore.Common.genruntimeconfig.cache
+C:\Users\HP\Downloads\vss-curso\C#\Ejercicios\LiquorStore\LiquorStore.Common\obj\Debug\net9.0\ref\LiquorStore.Common.dll
