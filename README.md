@@ -20,7 +20,7 @@
 ## Tabla de contenido
 
 - [Descripción general](#descripción-general)
-- [¿Por qué LicorStore.API?](#por-qué-licorstoreapi)
+- [¿Por qué LiquorStore.API?](#por-qué-licorstoreapi)
 - [Empezando](#empezando)
   - [Prerrequisitos](#prerrequisitos)
   - [Instalación](#instalación)
@@ -31,7 +31,7 @@
 
 ## Descripción general
 
-**LicorStore.API** es un framework backend integral diseñado para facilitar soluciones escalables y fáciles de mantener para la gestión de licorerías.  
+**LiquorStore.API** es un framework backend integral diseñado para facilitar soluciones escalables y fáciles de mantener para la gestión de licorerías.  
 Desarrollado con una arquitectura modular, integra a la perfección componentes clave como puntos finales de API, seguridad, acceso a datos y gestión de configuración.
 
 ---
@@ -63,24 +63,24 @@ Este proyecto requiere las siguientes dependencias:
 
 ### Instalación
 
-Construya `LicorStore.API` desde la fuente e instale las dependencias:
+Construya `LiquorStore.API` desde la fuente e instale las dependencias:
 
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/Julio9k/LicorStore.API
+   git clone https://github.com/Julio9k/LiquorStore.API.API
 Navegue hasta el directorio del proyecto:
 
 ## Clonar el repositorio
 
 ```bash
-git clone https://github.com/Julio9k/LicorStore.API
+git clone https://github.com/Julio9k/LiquorStore.API.API
 ```
 
 ## Navegar al directorio del proyecto
 
 ```bash
-cd LicorStore.API
+cd LiquorStore.API
 ```
 
 ## Instalar las dependencias
@@ -99,7 +99,7 @@ dotnet run
 
 ## Pruebas
 
-LicorStore.API utiliza el marco de pruebas `{ test_framework }`.
+LiquorStore.API utiliza el marco de pruebas `{ test_framework }`.
 
 Ejecutar las pruebas:
 
